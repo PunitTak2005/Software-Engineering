@@ -1,0 +1,48 @@
+SDLC Stage 4: Developing the Product
+
+The development stage is the fourth phase of the Software Development Life Cycle (SDLC). It involves translating the design into a working software product.
+
+Objectives of Development Stage:
+
+1. Write clean, efficient, and well-documented code
+2. Implement the software design
+3. Develop a working software product
+4. Conduct unit testing and integration testing
+5. Ensure that the software meets the requirements
+
+Key Activities in Development Stage:
+
+1. Coding
+2. Unit testing
+3. Integration testing
+4. Debugging
+5. Code reviews
+6. Implementation of security measures
+7. Development of documentation
+
+Deliverables from Development Stage:
+
+1. Source code
+2. Executable software product
+3. Test cases and test results
+4. Debugging reports
+5. Code review reports
+6. Documentation (e.g., user manuals, technical guides)
+
+Benefits of Development Stage:
+
+1. Translates design into a working software product
+2. Ensures that the software meets the requirements
+3. Identifies and fixes defects early on
+4. Provides a working product for testing and validation
+5. Ensures that the software is secure and reliable
+
+Techniques used in Development Stage:
+
+1. Programming languages (e.g., Java, Python, C++)
+2. Development frameworks (e.g., Spring, Django)
+3. Agile development methodologies (e.g., Scrum, Kanban)
+4. Test-driven development (TDD)
+5. Continuous integration and continuous deployment (CI/CD)
+
+By following best practices and techniques in the development stage, you can ensure that the software product is of high quality, meets the requirements, and is delivered on time.
