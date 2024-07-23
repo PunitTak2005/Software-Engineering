@@ -1,0 +1,46 @@
+Analysis is the second phase of the Software Development Life Cycle (SDLC). It involves a detailed examination of the requirements gathered during the first phase to identify any potential issues, risks, or inconsistencies.
+
+Objectives of Analysis Phase:
+
+1. Refine and clarify requirements
+2. Identify potential issues and risks
+3. Develop a detailed understanding of the system's functionality
+4. Create a conceptual model of the system
+5. Identify any ambiguities or inconsistencies in requirements
+
+Key Activities in Analysis Phase:
+
+1. Requirements refinement
+2. Data modeling
+3. Process modeling
+4. Object-oriented analysis (OOA)
+5. Identifying and documenting assumptions and dependencies
+6. Risk management and mitigation planning
+
+Deliverables from Analysis Phase:
+
+1. Analysis report
+2. Refined requirements document
+3. Data flow diagrams (DFDs)
+4. Entity-relationship diagrams (ERDs)
+5. Use case diagrams
+6. Class diagrams
+7. Object-oriented analysis models
+
+Benefits of Analysis Phase:
+
+1. Ensures clear understanding of requirements
+2. Identifies potential issues and risks early on
+3. Reduces misunderstandings and misinterpretations
+4. Provides a solid foundation for design and development
+5. Helps to ensure that the system meets user needs and expectations
+
+Techniques used in Analysis Phase:
+
+1. Data Flow Diagramming (DFD)
+2. Entity-Relationship Modeling (ERM)
+3. Object-Oriented Analysis (OOA)
+4. Use Case Modeling
+5. Business Process Modeling (BPM)
+
+By thoroughly analyzing the requirements, you can ensure that the software system meets the needs of its users and stakeholders, and that potential issues are identified and addressed early on.
