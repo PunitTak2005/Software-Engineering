@@ -1,0 +1,52 @@
+SDLC Stage 3: Designing Architecture
+
+The design stage is the third phase of the Software Development Life Cycle (SDLC). It involves creating a detailed design of the software's architecture, components, and user interface.
+
+Objectives of this stage:
+
+1. Create a detailed design of the software's architecture
+2. Define the software's components and their interactions
+3. Design the user interface and user experience
+4. Develop a detailed design document
+5. Create prototypes or mockups
+
+Key activities in the design stage:
+
+1. Architectural design
+2. Component design
+3. Interface design
+4. User experience (UX) design
+5. User interface (UI) design
+6. Prototyping and mockups
+7. Design reviews and feedback
+
+Deliverables from the design stage:
+
+1. Design document
+2. Architectural diagrams
+3. Component diagrams
+4. Interface designs
+5. User experience (UX) designs
+6. User interface (UI) designs
+7. Prototypes or mockups
+
+The output of this stage provides a clear and detailed blueprint for the software's development, ensuring that the final product meets the requirements and expectations.
+
+Some popular design techniques include:
+
+1. Model-View-Controller (MVC) pattern
+2. Microservices architecture
+3. Service-Oriented Architecture (SOA)
+4. User-centered design (UCD)
+5. Agile design
+
+Design principles:
+
+1. Separation of Concerns (SoC)
+2. Single Responsibility Principle (SRP)
+3. Open-Closed Principle (OCP)
+4. Liskov Substitution Principle (LSP)
+5. Interface Segregation Principle (ISP)
+6. Dependency Inversion Principle (DIP)
+
+By following these principles and techniques, you can create a robust, scalable, and maintainable software architecture that meets the needs of its users and stakeholders.
