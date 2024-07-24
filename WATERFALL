@@ -1,0 +1,43 @@
+The Waterfall model is a linear, sequential approach to the Software Development Life Cycle (SDLC). It follows a phase-by-phase progression, where each phase is completed before moving on to the next one.
+
+Phases of the Waterfall model:
+
+1. Requirements Gathering: Collecting and documenting user requirements.
+2. Analysis: Breaking down requirements into smaller, manageable pieces.
+3. Design: Creating a detailed design of the system.
+4. Implementation (Coding): Writing the code for the system.
+5. Testing: Verifying that the system meets requirements and works as expected.
+6. Deployment: Releasing the system to production.
+7. Maintenance: Providing ongoing support and updates.
+
+Characteristics of the Waterfall model:
+
+1. Linear progression
+2. Phases are completed sequentially
+3. No overlap between phases
+4. Each phase has a clear start and end point
+5. Emphasis on documentation and planning
+6. Change management is challenging
+
+Advantages:
+
+1. Easy to manage and understand
+2. Clear milestones and deadlines
+3. Emphasis on planning and documentation
+4. Suitable for small, well-defined projects
+
+Disadvantages:
+
+1. Inflexible to change
+2. High risk of project failure if requirements change
+3. Testing occurs late in the cycle
+4. Can lead to a "big bang" release, which can be risky
+
+When to use the Waterfall model:
+
+1. Small, well-defined projects
+2. Projects with clear, fixed requirements
+3. Projects with a low risk of change
+4. Projects where documentation and planning are crucial
+
+Remember, the Waterfall model is a traditional approach, and modern software development often uses more flexible and iterative approaches like Agile.
