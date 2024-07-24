@@ -1,0 +1,27 @@
+The SDLC Waterfall Model has the following disadvantages:
+
+1. Inflexible: Once a phase is completed, it's difficult to go back and make changes.
+
+2. High Risk: If requirements change or errors are found late in the cycle, it can be costly to fix.
+
+3. Long Development Time: The sequential nature of the Waterfall model can lead to longer development times.
+
+4. No Working Software Until Late: The customer doesn't see working software until late in the cycle.
+
+5. Difficult to Accommodate Change: Changes in requirements or design can be difficult and costly to implement.
+
+6. Lack of Customer Involvement: Customers may not be involved throughout the development process.
+
+7. Testing is Done Late: Testing is done late in the cycle, which can lead to discovering defects late.
+
+8. Not Suitable for Complex Projects: The Waterfall model is not suitable for complex projects with changing requirements.
+
+9. No Room for Error: There's no room for error or experimentation in the Waterfall model.
+
+10. Documentation-Heavy: The emphasis on documentation can lead to excessive paperwork and bureaucracy.
+
+11. Assumes Requirements are Known: The Waterfall model assumes requirements are known and fixed, which is often not the case.
+
+12. Not Suitable for Agile Development: The Waterfall model is not compatible with agile development methodologies.
+
+These disadvantages highlight the limitations of the Waterfall model, particularly in today's fast-paced and ever-changing software development landscape.
