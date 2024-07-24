@@ -1,0 +1,35 @@
+The functions of the Waterfall Model in SDLC (Software Development Life Cycle) are:
+
+1. Requirements Gathering: Collect and document functional and non-functional requirements.
+
+2. Analysis: Review and refine requirements, identify potential risks and issues.
+
+3. Design: Create a detailed design of the system architecture and components.
+
+4. Implementation (Coding): Write the code for the software.
+
+5. Testing: Verify that the software meets requirements and works as expected.
+
+6. Deployment: Deliver the software to the production environment.
+
+7. Maintenance: Provide ongoing support, fix defects, and make updates.
+
+The Waterfall Model performs these functions in a linear, sequential manner, where each phase is completed before moving on to the next one.
+
+Here's a more detailed breakdown of each function in the Waterfall Model:
+
+1. Requirements Gathering: Define project scope, goals, and deliverables.
+
+2. Analysis: Create a detailed analysis of requirements and identify potential risks.
+
+3. Design: Create a detailed design of the system architecture and components.
+
+4. Implementation: Write the code for the software, using the design specifications.
+
+5. Testing: Conduct unit testing, integration testing, system testing, and acceptance testing.
+
+6. Deployment: Deliver the software to the production environment and configure it.
+
+7. Maintenance: Provide ongoing support, fix defects, and make updates as needed.
+
+Note that the Waterfall Model is a rigid and linear approach, where each phase is completed before moving on to the next one, and changes are difficult to make once a phase is completed.
