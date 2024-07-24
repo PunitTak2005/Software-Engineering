@@ -1,0 +1,45 @@
+The functionalities of the SDLC Waterfall Model include:
+
+1. Requirements Gathering: Collecting and documenting functional and non-functional requirements.
+
+2. Analysis: Reviewing and refining requirements, identifying potential risks and issues.
+
+3. Design: Creating a detailed design of the system architecture and components.
+
+4. Implementation (Coding): Writing the code for the software.
+
+5. Testing: Verifying that the software meets requirements and works as expected.
+
+6. Deployment: Delivering the software to the production environment.
+
+7. Maintenance: Providing ongoing support, fixing defects, and making updates.
+
+8. Documentation: Creating and maintaining documentation throughout the development process.
+
+9. Configuration Management: Managing changes to the software and its components.
+
+10. Quality Assurance: Ensuring that the software meets the required standards.
+
+11. Project Management: Managing timelines, budget, and resources.
+
+12. Risk Management: Identifying and mitigating potential risks throughout the project.
+
+The Waterfall Model performs these functionalities in a linear, sequential manner, where each phase is completed before moving on to the next one.
+
+Here's a more detailed breakdown of each functionality in the Waterfall Model:
+
+1. Requirements Gathering: Define project scope, goals, and deliverables.
+
+2. Analysis: Create a detailed analysis of requirements and identify potential risks.
+
+3. Design: Create a detailed design of the system architecture and components.
+
+4. Implementation: Write the code for the software, using the design specifications.
+
+5. Testing: Conduct unit testing, integration testing, system testing, and acceptance testing.
+
+6. Deployment: Deliver the software to the production environment and configure it.
+
+7. Maintenance: Provide ongoing support, fix defects, and make updates as needed.
+
+Note that the Waterfall Model is a rigid and linear approach, where each phase is completed before moving on to the next one, and changes are difficult to make once a phase is completed.
