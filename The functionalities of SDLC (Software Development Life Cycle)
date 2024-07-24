@@ -1,0 +1,33 @@
+The functionalities of SDLC (Software Development Life Cycle) include:
+
+1. Project Planning: Defining project scope, goals, timelines, budget, and resources.
+
+2. Requirements Management: Collecting, documenting, and managing functional and non-functional requirements.
+
+3. Design and Prototyping: Creating a detailed design and prototype of the software.
+
+4. Coding and Implementation: Writing the code for the software.
+
+5. Testing and Quality Assurance: Verifying that the software meets requirements and works as expected.
+
+6. Deployment and Installation: Delivering the software to the production environment.
+
+7. Maintenance and Support: Providing ongoing support, fixing defects, and making updates.
+
+8. Configuration Management: Managing changes to the software and its components.
+
+9. Risk Management: Identifying and mitigating potential risks throughout the project.
+
+10. Communication and Stakeholder Management: Facilitating communication among stakeholders, team members, and customers.
+
+11. Project Monitoring and Control: Tracking progress, identifying and addressing deviations from the plan.
+
+12. Documentation and Knowledge Management: Creating and maintaining documentation and knowledge repositories.
+
+These functionalities ensure that software is developed in a structured, controlled, and repeatable manner, resulting in high-quality software that meets customer needs.
+
+SDLC functionalities can be categorized into three main groups:
+
+1. Project Management: Planning, monitoring, and control.
+2. Software Engineering: Requirements, design, coding, testing, and deployment.
+3. Support and Maintenance: Maintenance, support, and configuration management.
