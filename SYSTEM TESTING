@@ -1,0 +1,40 @@
+System testing is a level of software testing where a complete, integrated system is tested to ensure it meets the specified requirements and works as expected in a real-world environment. It involves:
+
+1. Testing the entire system, including all components and integrations
+2. Verifying that the system works as expected in different scenarios and environments
+3. Checking for defects, errors, and inconsistencies
+4. Ensuring that the system meets the specified requirements and standards
+
+Types of system testing:
+
+1. Functional testing: testing the system's functionality and features
+2. Performance testing: testing the system's performance, scalability, and reliability
+3. Security testing: testing the system's security and vulnerability to attacks
+4. Usability testing: testing the system's user experience and interface
+5. Compatibility testing: testing the system's compatibility with different environments and platforms
+
+System testing techniques:
+
+1. Black box testing: testing without knowledge of internal implementation
+2. White box testing: testing with knowledge of internal implementation
+3. Gray box testing: testing with partial knowledge of internal implementation
+4. Equivalence partitioning: dividing inputs into equivalent partitions
+5. Boundary value analysis: testing at input boundaries
+
+Benefits of system testing:
+
+1. Ensures the system works as expected in a real-world environment
+2. Detects defects and errors that may have been missed earlier
+3. Provides confidence in the system's quality and reliability
+4. Helps identify and fix integration issues
+5. Reduces the risk of system failure and downtime
+
+System testing tools:
+
+1. Selenium
+2. Appium
+3. TestComplete
+4. Ranorex
+5. IBM Rational Test Workbench
+
+By performing thorough system testing, you can ensure that your software application works as expected, meets the specified requirements, and provides a good user experience.
