@@ -1,0 +1,42 @@
+Agile model testing involves testing software in short cycles, called sprints or iterations, to ensure that the product meets the required quality and functionality standards. Here are the key aspects of agile model testing:
+
+1. Test-Driven Development (TDD): Writing automated tests before writing code.
+2. Continuous Integration (CI): Integrating code changes into the main codebase frequently.
+3. Continuous Testing (CT): Running automated tests on each build.
+4. Acceptance Test-Driven Development (ATDD): Writing acceptance tests before writing code.
+5. Behavior-Driven Development (BDD): Writing tests based on user behavior.
+6. Exploratory Testing: Testing without preconceived notions or scripts.
+7. Pair Testing: Two testers working together to test software.
+8. Test Automation: Automating tests to run repeatedly.
+
+Agile testing benefits:
+
+1. Early defect detection
+2. Improved quality
+3. Reduced testing time
+4. Increased test coverage
+5. Faster time-to-market
+6. Better collaboration
+7. Adaptability to change
+
+Agile testing tools:
+
+1. JUnit
+2. TestNG
+3. Cucumber
+4. Selenium
+5. Appium
+6. JIRA
+7. Trello
+
+Agile testing metrics:
+
+1. Test coverage
+2. Defect density
+3. Test execution time
+4. Automated test pass rate
+5. Manual test pass rate
+6. Testing cycle time
+7. Defect resolution time
+
+By adopting agile testing practices, teams can ensure that their software meets the required quality and functionality standards, while also adapting to changing requirements and user needs.
